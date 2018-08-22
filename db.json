@@ -1,0 +1,12 @@
+{
+  "posts": [
+    { "id": 1, "Baez Burgos Daniela": "Post 1" },
+    { "id": 2, "Bolaño Tromp Keyla": "Post 2" },
+    { "id": 3, "Bula Olivia Bleidys": "Post 3" },
+    { "id": 4, "Cabrales Guarnes Alejandra": "Post 4" },
+    { "id": 5, "Correa Suarez Sadis": "Post 5" }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
